@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier
+_src_path: /tmp/b3533615-7094-400b-b040-36738c6afecd_step-fetch-base-EWEZho/template
+host: github.com
+owner: super-awesome-org
+projectName: copier-update-test
+pythonVersion: s
+repo: copier-update-test
